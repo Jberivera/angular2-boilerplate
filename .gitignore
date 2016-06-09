@@ -36,6 +36,7 @@ node_modules
 typings
 app/**/*.js
 app/**/*.map
+dist
 node_modules
 jspm_packages
 bower_components
